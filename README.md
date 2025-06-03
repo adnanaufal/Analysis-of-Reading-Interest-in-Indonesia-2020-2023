@@ -1,2 +1,6 @@
 # Analysis-of-Reading-Interest-in-Indonesia-2020-2023
 The project analyzes the reading interest in Indonesia from 2020 to 2023 by examining trends and factors influencing literacy levels.
+
+The reading interest of Indonesian people is one of the important indicators in measuring the level of literacy and intellectual development of the nation. This study aims to analyze the reading level in Indonesia in the period 2020-2023 by looking at trends and factors that influence it. By using clustering and classification methods to understand reading interest patterns in various community groups. Clustering is done using the K-Means algorithm to group regions based on similarities in reading interest levels, while Logistic Regression and Random Forest models are used to predict the most influential factors on TGM.
+
+The results of the analysis show that there are several groups of areas with different reading interest patterns, where areas with better internet access tend to have higher TGM. This study confirms that a data-driven approach can improve understanding of people's reading patterns and assist in the formulation of more effective literacy policies. These results are expected to support data-driven reading interest improvement strategies to ensure literacy equity across Indonesia.
