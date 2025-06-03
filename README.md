@@ -11,5 +11,6 @@ The results of the analysis show that there are several groups of areas with dif
 ![image](https://github.com/user-attachments/assets/2ec4a819-a5e6-45f7-a291-ea8366cc4f08)
 ![image](https://github.com/user-attachments/assets/f60cfcf7-d7f1-4c19-a89f-507ea5f1af0d)
 ![image](https://github.com/user-attachments/assets/8de2400c-35bd-49eb-9c92-eb3c1e2b2125)
+![image](https://github.com/user-attachments/assets/71207f22-5686-43ae-b5f5-3f6c5ea3f652)
 
 
